@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-My name is Carli and I am self-taught front-end developer. Currently based in Brooklyn, NY & open to new opportunities! 
+I'm Carli and I am self-taught front-end developer. Currently based in Brooklyn, NY & open to new opportunities! 
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smithcarli/)
 
 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="smithcarli" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/smithcarli?trk=profile-badge">Carli Smith</a></div>
-              
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+ 
+
+
 
 <!--
 **carlismith14/carlismith14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +25,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tocarli.t.smith1@gmail.com)
 -->
