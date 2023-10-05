@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Carli and I am self-taught front-end developer. Currently based in Brooklyn, NY & open to new opportunities! 
+
+
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="smithcarli" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/smithcarli?trk=profile-badge">Carli Smith</a></div>
+              
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <!--
 **carlismith14/carlismith14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
