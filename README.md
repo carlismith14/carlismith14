@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Carli and I am self-taught front-end developer. Currently based in Brooklyn, NY & open to new opportunities! 
+I'm Carli and I am a front-end developer currently based in Brooklyn, NY. 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smithcarli/)
